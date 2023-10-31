@@ -1,7 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Jacob Salinas</h1>
+<h1 align="center">A little about me</h1>
 <h3 align="center">Professional musician turned data analyst, passionate about dissecting and translating data into insights and impacts.</h3>
 
+Hello I'm Jacob. Data analyst with expertise in data analysis and reporting, query design/optimization, and data visualization. 
+
+- Querying data using SQL and SQL variants.
+- Data analysis and reporting using Google Sheets and Excel.
+- Creating visualizations and dashboards via Tableau, Looker, and PowerBI.
+- Generate reports and perform ad-hoc data analysis using various tools. 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacob-salinas-844b5028a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacob-salinas-844b5028a/" height="30" width="40" /></a>
